@@ -368,9 +368,6 @@ p {
     -ms-flex-item-align: end;
         align-self: flex-end;
   }
-  #background {
-    display: none;
-  }
   ul.show {
     display: block;
     padding-top: 0;
